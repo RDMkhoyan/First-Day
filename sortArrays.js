@@ -25,7 +25,8 @@
         	}
 		}
 	}
-alert(array1);
+	
+	console.log(array1);
 
 
   /*var array1 = [5,6,98,22,1];
